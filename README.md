@@ -1,11 +1,1 @@
-# API Base URLs
-
-## https://tutorials-api-cw.herokuapp.com/api/tutorials
-
-## https://axios-example-cw.herokuapp.com/api/tutorials
-
-## https://cw-axios-example.herokuapp.com/api/tutorials
-
-# Deployed Frontend
-
-## https://axios-example.netlify.app/
+![Screenshot_2](https://user-images.githubusercontent.com/46603841/177346440-682e4b8c-8e41-4e5a-adb0-0d719e8b6ad7.png)
